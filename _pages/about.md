@@ -1,8 +1,15 @@
 ---
+title: "About me"
 permalink: /about/
-title: "About"
+layout: single
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## About
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- 하드웨어/ 펌웨어 엔지니어 천종희
+- 아주자동차대학 제어계측 전공
+- 기계와 제어기술을 융합하는 엔지니어로 살아간다.
+- 리눅스를 사랑하는 임베디드 엔지니어로 살아간다.
+- 세상을 이롭게 하는 IoT를 이루어 간다.
+- 라즈베리파이를 세상에 알린다.
+- 프론트/백엔드 엔지니어.
