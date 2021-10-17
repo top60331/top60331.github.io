@@ -6,8 +6,8 @@ main:
     url: /categories/
   - title: "Posts"
     url: /posts/
-  - title: "Tags"
-    url: /tags/
+  #  - title: "Tags"
+  #    url: /tags/
   - title: "About"
     url: /about/
 # - title: "Quick-Start Guide"
