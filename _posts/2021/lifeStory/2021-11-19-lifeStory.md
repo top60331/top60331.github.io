@@ -1,5 +1,5 @@
 ---
-title: 살아가는 이야기
+title: 일기장
 layout: single
 author_profile: true
 read_time: true
