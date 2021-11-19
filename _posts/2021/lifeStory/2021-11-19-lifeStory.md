@@ -33,3 +33,5 @@ Tags: [lifeStory, 삶의 흔적]
 ## 2021-11-19
 
 이 블로그를 만들고 오랜만에 글을 남겨본다.
+
+<img src="../../../assets\images\post\lifeStory\20211120_1.png" alt="rpi1" style="zoom: 50%;"/>
