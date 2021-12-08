@@ -60,7 +60,7 @@ Tags: [lifeStory, 삶의 흔적]
 
 그것이 당신에게 올바른 직업 선택일 수 있습니다..
 
-https://tryengineering.org/ko/ask-an-expert/what-is-an-engineer/
+[링크참조](https://tryengineering.org/ko/ask-an-expert/what-is-an-engineer/)
 
 <img src="../../../assets\images\post\lifeStory\20211209_1.jpg" alt="rpi1" style="zoom: 50%;"/>
 
@@ -100,18 +100,18 @@ https://tryengineering.org/ko/ask-an-expert/what-is-an-engineer/
 
 ### 1년 계획<br>
 
-나이별 커리큘럼 짜기
+1. 나이별 커리큘럼 짜기
 
-현실적인 아이디어 적용해 볼 목록 작성하기
+2. 현실적인 아이디어 적용해 볼 목록 작성하기
 
-어떤 플랫폼으로 적용할지 / 라즈베리파이 / 아두이노용 모듈활용
+3. 어떤 플랫폼으로 적용할지 / 라즈베리파이 / 아두이노용 모듈활용
 
 - 비대면으로 코딩을 실험해 볼 수 있는 플랫폼 만들기
 - 온라인 코드 & HW설계 리뷰
 - 함께 성장하는 플랫폼 & 상대의 아이디어 존중해 주는 문화정착
 - 수학 & 과학 적인 이론을 접목한 사례를 통한 학습
 
-실제 산업에 필요한 모듈 만들기 / 예시
+4. 실제 산업에 필요한 모듈 만들기 / 예시
 
 ---
 
